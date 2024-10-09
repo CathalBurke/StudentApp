@@ -47,3 +47,4 @@ public class StudentApp {
         System.out.println("Student 3: Name: " + student3.getName() + ", Email: " + student3.getEmail() + ", Course: " + student3.getCourse());
     }
 }
+
