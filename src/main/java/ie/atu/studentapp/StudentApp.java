@@ -2,6 +2,7 @@ package ie.atu.studentapp;
 
 import java.util.Scanner;
 
+
 public class StudentApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
