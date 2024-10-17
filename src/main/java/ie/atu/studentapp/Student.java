@@ -5,6 +5,7 @@ public class Student {
     private String email;
     private String course;
 
+
     // Default constructor
     public Student() {}
 
